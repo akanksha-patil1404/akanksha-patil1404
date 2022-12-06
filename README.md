@@ -1,6 +1,6 @@
 <h1 align="center">Hi Geeks👋, I'm Akanksha Kailash Patil!</h1>
 <h3 align="center">I am B Tech undergrad! having a keen interest in the field of Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1539207c100e342b7328613dacfe99e284609e06cd60fcce04e86958b4c47dd6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1539207c100e342b7328613dacfe99e284609e06cd60fcce04e86958b4c47dd6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha-patil1404&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha-patil1404" /> </p>
@@ -24,7 +24,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha-patil1404&show_icons=true&locale=en&layout=compact" alt="akanksha-patil1404" width="400" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en" alt="akanksha-patil1404" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en" alt="akanksha-patil1404" width="400"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-patil1404&" alt="akanksha-patil1404" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-patil1404&" alt="akanksha-patil1404" width="400"/></p>
 
