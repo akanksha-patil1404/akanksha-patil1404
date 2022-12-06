@@ -1,5 +1,6 @@
 <h1 align="center">Hi Geeks👋, I'm Akanksha Kailash Patil!</h1>
 <h3 align="center">I am B Tech undergrad! having a keen interest in the field of Data Science</h3>
+<hr>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1539207c100e342b7328613dacfe99e284609e06cd60fcce04e86958b4c47dd6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966" width="400">
 
 <p>
@@ -30,7 +31,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha-patil1404&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark&include_all_commits=true" alt="akanksha-patil1404" width="400" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en&theme=chartreuse-dark" alt="akanksha-patil1404" width="400"/></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en&theme=chartreuse-dark" alt="akanksha-patil1404" width="400"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-patil1404&&theme=chartreuse-dark" alt="akanksha-patil1404&theme=chartreuse-dark" width="400"/></p>
 
