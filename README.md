@@ -23,7 +23,6 @@
 - 💬 Ask me about **Data Science, Machine Learning, DSA, Python**
 
 </br>
-<hr>
 
 
 <p align="right">
