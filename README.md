@@ -31,7 +31,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha-patil1404&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark&include_all_commits=true" alt="akanksha-patil1404" width="400" /></p>
 
-<p>&nbsp;<img " src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en&theme=chartreuse-dark" alt="akanksha-patil1404" width="400"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en&theme=chartreuse-dark" alt="akanksha-patil1404" /></p>
 
 <p><img  align="center src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-patil1404&&theme=chartreuse-dark" alt="akanksha-patil1404&theme=chartreuse-dark" width="400"/></p>
 
