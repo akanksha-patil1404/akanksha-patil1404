@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=akanksha-patil1404&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha-patil1404" />
 </p>
 
+<br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1539207c100e342b7328613dacfe99e284609e06cd60fcce04e86958b4c47dd6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966" width="200"/>
 
 
@@ -20,6 +21,9 @@
 - 👯 I’m looking to collaborate **with people having similar area of interest and work with them.**
 
 - 💬 Ask me about **Data Science, Machine Learning, DSA, Python**
+
+</br>
+<hr>
 
 
 <p align="right">
