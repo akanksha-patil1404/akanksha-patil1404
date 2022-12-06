@@ -1,6 +1,4 @@
-### Hi geeks 👋 I am Akanksha Patil!
-
-<h1 align="center">Hi 👋, I'm Akanksha Kailash Patil</h1>
+<h1 align="center">Hi Geeks👋, I'm Akanksha Kailash Patil!</h1>
 <h3 align="center">I am B Tech undergrad! having a keen interest in the field of Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=futaba+sakura+gif&rlz=1C1CHBD_enIN872IN872&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOhuG41OX7AhXJSWwGHcxqBn4Q_AUoAXoECAEQAw&biw=1536&bih=656&dpr=1.25#imgrc=gmnTFkhXgNOY-M&imgdii=5x6Hq45J8vgdBM">
 
