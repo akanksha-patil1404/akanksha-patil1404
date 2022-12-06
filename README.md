@@ -22,7 +22,7 @@
 - 💬 Ask me about **Data Science, Machine Learning, DSA, Python**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +33,11 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akanksha-patil1404&show_icons=true&locale=en&theme=chartreuse-dark" alt="akanksha-patil1404" width="400"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha-patil1404&&theme=chartreuse-dark" alt="akanksha-patil1404&theme=chartreuse-dark" width="400"/></p>
+
+<hr>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bakanksha-patil1404%7D/count.svg" alt="visitor badge"/></p>
+
+<hr>
 
