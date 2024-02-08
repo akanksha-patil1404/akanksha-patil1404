@@ -12,7 +12,7 @@
 
 <br>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/akanksha-patil1404/akanksha-patil1404/blob/main/coding.gif" width="200"/>
+src="https://github.com/akanksha-patil1404/akanksha-patil1404/blob/main/Coding4.jpg" width="200"/>
 
 
 - 🔭 I’m currently **a B-Tech Undergraduate**
